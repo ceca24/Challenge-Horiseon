@@ -19,3 +19,5 @@ The webpage will looks similar to the screenshot:
 The UTA Bootcamp provided the HTML and CSS codes, as well as images, for this project.
 
 ##License
+
+Please refer to the LICENSE in the repo.
